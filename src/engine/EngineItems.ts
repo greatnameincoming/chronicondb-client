@@ -35,6 +35,7 @@ export const ITEM_TYPES_WITH_EPIC_REPLACEMENT_CHANCE = [
   ItemType.Sword,
   ItemType.Fists,
   ItemType.Staff,
+  ItemType.Axe,
   ItemType.Accessory,
 ];
 
