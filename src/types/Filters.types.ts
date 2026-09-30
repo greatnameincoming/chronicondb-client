@@ -31,6 +31,13 @@ export interface ArtifactsFilters {
   category?: string;
 }
 
+export interface BlessingsFilters {
+  search?: string;
+  kind?: string;
+  slot?: string;
+  characterClass?: string;
+}
+
 export interface SkillsFilters {
   search?: string;
   characterClass?: string;
@@ -45,6 +52,7 @@ export interface Filters {
   enchants: EnchantsFilters;
   skills: SkillsFilters;
   artifacts: ArtifactsFilters;
+  blessings: BlessingsFilters;
 }
 
 /* Flattened filters */
@@ -67,6 +75,10 @@ export type QueryFiltersInterface = {
   skillsFamily: string;
   artifactSearch: string;
   artifactType: string;
+  blessingsSearch?: string;
+  blessingsKind?: string;
+  blessingsSlot?: string;
+  blessingsCharacterClass?: string;
 }
 
 export enum FiltersType {
@@ -74,5 +86,6 @@ export enum FiltersType {
   Items = 'items',
   Enchants = 'enchants',
   Skills = 'skills',
-  Artifacts = 'artifacts'
+  Artifacts = 'artifacts',
+  Blessings = 'blessings',
 }
