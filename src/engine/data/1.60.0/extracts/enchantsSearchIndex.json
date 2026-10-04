@@ -3728,14 +3728,6 @@
     "itemCategories": "Craft"
   },
   {
-    "uuid": 1209,
-    "name": "Dragon Stomp",
-    "category": "Rune",
-    "description": "Dragon Stomp now interrupts attacks and stuns foes for up to  seconds.",
-    "itemTypes": "Item",
-    "itemCategories": "Craft"
-  },
-  {
     "uuid": 1210,
     "name": "Chained Focus",
     "category": "Rune",
@@ -3764,14 +3756,6 @@
     "name": "Infinite Rolls",
     "category": "Rune",
     "description": "The cooldown of Dive, Flame Roll, and Glacial Roll is reduced by .",
-    "itemTypes": "Item",
-    "itemCategories": "Craft"
-  },
-  {
-    "uuid": 1214,
-    "name": "Shardstorm",
-    "category": "Rune",
-    "description": "Ice Shard has a  chance to also cast Winter Storm on itself.",
     "itemTypes": "Item",
     "itemCategories": "Craft"
   },
@@ -4468,14 +4452,6 @@
     "name": "Demonkin",
     "category": "Rune",
     "description": "While there is a living Infernal Demon, Demon Spawn (ultimate) is also active.",
-    "itemTypes": "Item",
-    "itemCategories": "Craft"
-  },
-  {
-    "uuid": 1304,
-    "name": "Rune Slot",
-    "category": "Rune",
-    "description": "This slot can be replaced with any fitting Rune.",
     "itemTypes": "Item",
     "itemCategories": "Craft"
   },

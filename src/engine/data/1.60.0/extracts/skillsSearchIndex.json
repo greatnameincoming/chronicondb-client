@@ -410,6 +410,76 @@
     "description": " holy swords plunge from the heavens onto the foes of the Templar, dealing  XDAM _EHO_Holy¥ damage to all foes within RANGE meters."
   },
   {
+    "uuid": 100418,
+    "class": "Templar",
+    "name": "Strengthened Companions",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Companion Damage"
+  },
+  {
+    "uuid": 100419,
+    "class": "Templar",
+    "name": "Hardened Companions",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Companion Health"
+  },
+  {
+    "uuid": 100468,
+    "class": "Templar",
+    "name": "Physical Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": " Physical Damage"
+  },
+  {
+    "uuid": 100469,
+    "class": "Templar",
+    "name": "Lightning Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Lightning",
+    "family": "",
+    "description": " Lightning Damage"
+  },
+  {
+    "uuid": 100470,
+    "class": "Templar",
+    "name": "Fire Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": " Fire Damage"
+  },
+  {
+    "uuid": 100472,
+    "class": "Templar",
+    "name": "Holy Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": " Holy Damage"
+  },
+  {
+    "uuid": 100478,
+    "class": "Templar",
+    "name": "Thorns",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Thorns"
+  },
+  {
     "uuid": 100095,
     "class": "Templar",
     "name": "Lightning Affinity",
@@ -3640,6 +3710,56 @@
     "description": "The Berserker instantly moves to his target location, up to RANGE meters away, dealing  XDAM _ELI_Lightning¥ damage to all foes within RANGE2 meters on arrival."
   },
   {
+    "uuid": 100468,
+    "class": "Berserker",
+    "name": "Physical Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": " Physical Damage"
+  },
+  {
+    "uuid": 100469,
+    "class": "Berserker",
+    "name": "Lightning Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Lightning",
+    "family": "",
+    "description": " Lightning Damage"
+  },
+  {
+    "uuid": 100470,
+    "class": "Berserker",
+    "name": "Fire Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": " Fire Damage"
+  },
+  {
+    "uuid": 100471,
+    "class": "Berserker",
+    "name": "Frost Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Frost",
+    "family": "",
+    "description": " Frost Damage"
+  },
+  {
+    "uuid": 100478,
+    "class": "Berserker",
+    "name": "Thorns",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Thorns"
+  },
+  {
     "uuid": 100095,
     "class": "Berserker",
     "name": "Lightning Affinity",
@@ -6478,6 +6598,76 @@
     "element": "Physical",
     "family": "",
     "description": "Each point spent in the |Guardian¥ tree grants you bonus stats. Current bonus:  _EPH_Physical¥ damage and Bleed Damage,  Health."
+  },
+  {
+    "uuid": 100418,
+    "class": "Warden",
+    "name": "Strengthened Companions",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Companion Damage"
+  },
+  {
+    "uuid": 100419,
+    "class": "Warden",
+    "name": "Hardened Companions",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Companion Health"
+  },
+  {
+    "uuid": 100468,
+    "class": "Warden",
+    "name": "Physical Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": " Physical Damage"
+  },
+  {
+    "uuid": 100469,
+    "class": "Warden",
+    "name": "Lightning Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Lightning",
+    "family": "",
+    "description": " Lightning Damage"
+  },
+  {
+    "uuid": 100471,
+    "class": "Warden",
+    "name": "Frost Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Frost",
+    "family": "",
+    "description": " Frost Damage"
+  },
+  {
+    "uuid": 100473,
+    "class": "Warden",
+    "name": "Poison Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": " Poison Damage"
+  },
+  {
+    "uuid": 100478,
+    "class": "Warden",
+    "name": "Thorns",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Thorns"
   },
   {
     "uuid": 100095,
@@ -10110,6 +10300,946 @@
     "description": "All _EFI_Fire¥ skills have a  chance to ignite foes hit and deal  of the damage dealt, per second, for  seconds as a burn effect."
   },
   {
+    "uuid": 100418,
+    "class": "Mechanist",
+    "name": "Strengthened Companions",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Companion Damage"
+  },
+  {
+    "uuid": 100468,
+    "class": "Mechanist",
+    "name": "Physical Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": " Physical Damage"
+  },
+  {
+    "uuid": 100470,
+    "class": "Mechanist",
+    "name": "Fire Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": " Fire Damage"
+  },
+  {
+    "uuid": 100472,
+    "class": "Mechanist",
+    "name": "Holy Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": " Holy Damage"
+  },
+  {
+    "uuid": 100473,
+    "class": "Mechanist",
+    "name": "Poison Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": " Poison Damage"
+  },
+  {
+    "uuid": 100478,
+    "class": "Mechanist",
+    "name": "Thorns",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Thorns"
+  },
+  {
+    "uuid": 100501,
+    "class": "Mechanist",
+    "name": "Drone Pilot",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Satellite Damage"
+  },
+  {
+    "uuid": 100503,
+    "class": "Mechanist",
+    "name": "Improved Blade Launchers",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": " Chance to trigger _EPH_Loose _EPH_Blades¥"
+  },
+  {
+    "uuid": 100504,
+    "class": "Mechanist",
+    "name": "Sever Limbs",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": " Chance to trigger _EPH_Damage _EPH_Limbs¥"
+  },
+  {
+    "uuid": 100505,
+    "class": "Mechanist",
+    "name": "Rapid Bleedout",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": "Increases the rate of which _EPH_Puncture¥ deals damage to the target by  of Attack Speed."
+  },
+  {
+    "uuid": 100506,
+    "class": "Mechanist",
+    "name": "Circle of Slaughter",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": "_EPH_Loose _EPH_Blades¥ deal  increased damage for each foe with RANGE meters. Bosses count as 15 foes."
+  },
+  {
+    "uuid": 100507,
+    "class": "Mechanist",
+    "name": "Reaction Training",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": " Parry"
+  },
+  {
+    "uuid": 100508,
+    "class": "Mechanist",
+    "name": "Frontline Armor",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": " Damage Reduction"
+  },
+  {
+    "uuid": 100509,
+    "class": "Mechanist",
+    "name": "Combat Reload",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": "_EPH_Backdraft¥ and _EPH_Full _EPH_Reverse¥ have a  chance to reset all cooldowns when used."
+  },
+  {
+    "uuid": 100510,
+    "class": "Mechanist",
+    "name": "Long Range Sensors",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": "All |Drone¥ skills have  increased range."
+  },
+  {
+    "uuid": 100512,
+    "class": "Mechanist",
+    "name": "S3N7RY 2.0",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": "_EPH_S3N7RY¥ also applies _EPH_Automated _EPH_Targeting¥ on hit."
+  },
+  {
+    "uuid": 100513,
+    "class": "Mechanist",
+    "name": "Deep Puncture",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": " Increased damage of _EPH_Puncture¥"
+  },
+  {
+    "uuid": 100514,
+    "class": "Mechanist",
+    "name": "Carbide Blade",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": " Increased damage of _EPH_Loose _EPH_Blades¥"
+  },
+  {
+    "uuid": 100515,
+    "class": "Mechanist",
+    "name": "Cutting Edge",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": " Increased damage of _EPH_Loose _EPH_Blades¥ and _EPH_Puncture¥."
+  },
+  {
+    "uuid": 100516,
+    "class": "Mechanist",
+    "name": "Reload Opportunity",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": "Parrying has a  chance to grant  Ammo."
+  },
+  {
+    "uuid": 100517,
+    "class": "Mechanist",
+    "name": "Magic Mags",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": "Skills and other effects that consume Ammo have a  chance to not consume any Ammo and instead grant  Ammo."
+  },
+  {
+    "uuid": 100518,
+    "class": "Mechanist",
+    "name": "Riposte!",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": "Parrying has a  chance to stun the foe for up to 3 seconds."
+  },
+  {
+    "uuid": 100519,
+    "class": "Mechanist",
+    "name": "Rocketeer Synergy",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": " Increased damage of _EFI_Rocketeer¥"
+  },
+  {
+    "uuid": 100520,
+    "class": "Mechanist",
+    "name": "Frontliner Focus",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": "Increases the damage of all |Frontliner¥ active skills by ."
+  },
+  {
+    "uuid": 100521,
+    "class": "Mechanist",
+    "name": "Tech Affinity",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " to |Tech¥ Effect."
+  },
+  {
+    "uuid": 100522,
+    "class": "Mechanist",
+    "name": "Frontliner Mastery",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": "Increases the damage of all Frontliner skills for each point spent in this line. Current bonus is ."
+  },
+  {
+    "uuid": 100523,
+    "class": "Mechanist",
+    "name": "Man Vs. Machine",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Damage to Humanoid and Mechanical foes"
+  },
+  {
+    "uuid": 100524,
+    "class": "Mechanist",
+    "name": "Personal Goblin QA Team",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Increased effect of all |Tech¥ skills"
+  },
+  {
+    "uuid": 100525,
+    "class": "Mechanist",
+    "name": "Machine Commander",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Companion Damage and Companion Use Effect"
+  },
+  {
+    "uuid": 100526,
+    "class": "Mechanist",
+    "name": "Ammo Radar",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Ammo Find"
+  },
+  {
+    "uuid": 100527,
+    "class": "Mechanist",
+    "name": "Apprentice of Tinka",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Tinker skill damage"
+  },
+  {
+    "uuid": 100528,
+    "class": "Mechanist",
+    "name": "Combat Engineer",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Combat skill damage"
+  },
+  {
+    "uuid": 100529,
+    "class": "Mechanist",
+    "name": "Machine Smith",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Machinery skill damage"
+  },
+  {
+    "uuid": 100530,
+    "class": "Mechanist",
+    "name": "War Technician",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Tinker, Combat, and Machinery skill damage"
+  },
+  {
+    "uuid": 100531,
+    "class": "Mechanist",
+    "name": "Drone Commander",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Drone skill damage"
+  },
+  {
+    "uuid": 100532,
+    "class": "Mechanist",
+    "name": "Technomaster",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Increased effect of all |Tech¥ skills"
+  },
+  {
+    "uuid": 100533,
+    "class": "Mechanist",
+    "name": "Double Check",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Ammo Find"
+  },
+  {
+    "uuid": 100534,
+    "class": "Mechanist",
+    "name": "Rapid Cycle Module",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": " Chance to trigger _EFI_Rocketeer¥"
+  },
+  {
+    "uuid": 100535,
+    "class": "Mechanist",
+    "name": "Safety Regulations Are Just Suggestions",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": " Chance to trigger _EFI_Misfire¥"
+  },
+  {
+    "uuid": 100536,
+    "class": "Mechanist",
+    "name": "Improved Incendiaries",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": " Chance to trigger _EFI_Incendiary _EFI_Technology¥"
+  },
+  {
+    "uuid": 100537,
+    "class": "Mechanist",
+    "name": "Concussive Blasts",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": "_EFI_Rocketeer¥ has a  chance to stun foes on hit for up to 3 seconds"
+  },
+  {
+    "uuid": 100538,
+    "class": "Mechanist",
+    "name": "Widespread Panic",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": "_EFI_Panic¥ is  more likely to trigger if the affected foe is surrounded by other burning foes."
+  },
+  {
+    "uuid": 100539,
+    "class": "Mechanist",
+    "name": "Heat Pds",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": " Health Regeneration"
+  },
+  {
+    "uuid": 100540,
+    "class": "Mechanist",
+    "name": "Invigorating Flames",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": " Health"
+  },
+  {
+    "uuid": 100541,
+    "class": "Mechanist",
+    "name": "Upscaled Recycling",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": "_EFI_Recycled _EFI_Ammo¥ may now also trigger when a _EFI_Bomb _EFI_Bots¥ explodes."
+  },
+  {
+    "uuid": 100542,
+    "class": "Mechanist",
+    "name": "Targeting Flares",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": "Foes affected by _EFI_Flare¥ will now be prioritized targets by all Drones."
+  },
+  {
+    "uuid": 100543,
+    "class": "Mechanist",
+    "name": "Battle Stance",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": "_EFI_Hunker _EFI_Down!¥ now also increases damage by  when used."
+  },
+  {
+    "uuid": 100544,
+    "class": "Mechanist",
+    "name": "Burst Fire Lasers",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": "_EFI_Superheated _EFI_Weaponry¥ now fires 3 laser bolts in a rapid burst, but the projectiles no longer pierce enemies."
+  },
+  {
+    "uuid": 100545,
+    "class": "Mechanist",
+    "name": "Improved Rocketry",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": " Increased damage of _EFI_Rocketeer¥"
+  },
+  {
+    "uuid": 100546,
+    "class": "Mechanist",
+    "name": "Intense Heat",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": " Increased damage of _EFI_Incendiary _EFI_Technology¥"
+  },
+  {
+    "uuid": 100547,
+    "class": "Mechanist",
+    "name": "Flammable Rocketry",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": " Increased damage of _EFI_Incendiary _EFI_Technology¥ and _EFI_Rocketeer¥."
+  },
+  {
+    "uuid": 100548,
+    "class": "Mechanist",
+    "name": "Portable Factory",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": "Ammo has a  chance to drop in pairs."
+  },
+  {
+    "uuid": 100549,
+    "class": "Mechanist",
+    "name": "Burning Engine",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": "All |Pyrotechnics¥ skills have  lower base cooldowns."
+  },
+  {
+    "uuid": 100550,
+    "class": "Mechanist",
+    "name": "Incendiary Focus",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": "For each active Drone, _EFI_Incendiary _EFI_Technology¥ deals  increased damage."
+  },
+  {
+    "uuid": 100551,
+    "class": "Mechanist",
+    "name": "Engineered Poisons Synergy",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": " Increased damage of _EPO_Engineered _EPO_Poisons¥"
+  },
+  {
+    "uuid": 100552,
+    "class": "Mechanist",
+    "name": "Pyrotechnics Focus",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": "Increases the damage of all |Pyrotechnics¥ active skills by ."
+  },
+  {
+    "uuid": 100553,
+    "class": "Mechanist",
+    "name": "Pyrotechnics Mastery",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": "Increases the damage of all |Pyrotechnics¥ skills for each point spent in this line. Current bonus is ."
+  },
+  {
+    "uuid": 100554,
+    "class": "Mechanist",
+    "name": "Thick Haze",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": " increased chance to trigger _EPO_Poison _EPO_Haze¥"
+  },
+  {
+    "uuid": 100555,
+    "class": "Mechanist",
+    "name": "Nerve Gas",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": "_EPO_Debilitating _EPO_Poisons¥ is  stronger."
+  },
+  {
+    "uuid": 100556,
+    "class": "Mechanist",
+    "name": "Potent Poisons",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": "_EPO_Engineered _EPO_Poisons¥ lasts  longer."
+  },
+  {
+    "uuid": 100557,
+    "class": "Mechanist",
+    "name": "Concentrated Chemicals",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": "All |Bio-Tech¥ skills deal  increased damage when not having any Drones."
+  },
+  {
+    "uuid": 100558,
+    "class": "Mechanist",
+    "name": "Antigens",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": " Willpower"
+  },
+  {
+    "uuid": 100559,
+    "class": "Mechanist",
+    "name": "Boosted Immune System",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": " Resistance to all elements"
+  },
+  {
+    "uuid": 100560,
+    "class": "Mechanist",
+    "name": "Thick Smoke",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": "_EPO_Smoke _EPO_Bomb¥ triggers _EPO_Defensive _EPO_Stance¥ when used."
+  },
+  {
+    "uuid": 100561,
+    "class": "Mechanist",
+    "name": "Gas Salvage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": "_EPO_Leaking _EPO_Containers¥ also increase Poison Resistance by  per Drone."
+  },
+  {
+    "uuid": 100562,
+    "class": "Mechanist",
+    "name": "Mixed Gas",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": "Activating _EPO_Smoke _EPO_Bomb¥ while _EPO_Poison _EPO_Gas¥ is active increases the damage of _EPO_Poison _EPO_Gas¥ by ."
+  },
+  {
+    "uuid": 100563,
+    "class": "Mechanist",
+    "name": "Micron Particles",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": " Increased damage of _EPO_Poison _EPO_Gas¥"
+  },
+  {
+    "uuid": 100564,
+    "class": "Mechanist",
+    "name": "Unethical Field Tests",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": " Increased damage of _EPO_Engineered _EPO_Poisons¥"
+  },
+  {
+    "uuid": 100565,
+    "class": "Mechanist",
+    "name": "Improved Formulas",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": " Increased damage of _EPO_Engineered _EPO_Poisons¥ and _EPO_Poison _EPO_Gas¥."
+  },
+  {
+    "uuid": 100566,
+    "class": "Mechanist",
+    "name": "Counter Agents",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": "Each time the Mechanist is struck, her Poison Resistance and Poison Damage is increased by . Stacks up to  times, and lasts  seconds."
+  },
+  {
+    "uuid": 100567,
+    "class": "Mechanist",
+    "name": "Fuel Improvements",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": "_EPO_Chemical _EPO_Fuel¥ now affects all _EPO_Poison¥ skills."
+  },
+  {
+    "uuid": 100568,
+    "class": "Mechanist",
+    "name": "Automatic Dispenser",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": "_EPO_Poison _EPO_Gas¥ now triggers _EPO_Smoke _EPO_Bomb¥ shortly after activating."
+  },
+  {
+    "uuid": 100569,
+    "class": "Mechanist",
+    "name": "Feedback Loop Synergy",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": "_EHO_Feedback _EHO_Loops¥ has a  increase chance to trigger."
+  },
+  {
+    "uuid": 100570,
+    "class": "Mechanist",
+    "name": "Bio-Tech Focus",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": "Increases the damage of all |Bio-Tech¥ active skills by ."
+  },
+  {
+    "uuid": 100571,
+    "class": "Mechanist",
+    "name": "Bio-Tech Mastery",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": "Increases the damage of all |Bio-Tech¥ skills for each point spent in this line. Current bonus is ."
+  },
+  {
+    "uuid": 100572,
+    "class": "Mechanist",
+    "name": "Light Beam",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": " increased chance to trigger _EHO_Light _EHO_Lance¥"
+  },
+  {
+    "uuid": 100573,
+    "class": "Mechanist",
+    "name": "5000 Lumens",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": " increased chance to trigger _EHO_Dazzle¥"
+  },
+  {
+    "uuid": 100574,
+    "class": "Mechanist",
+    "name": "Battle Analysis",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": " increased chance to trigger _EHO_Defensive _EHO_Protocols¥"
+  },
+  {
+    "uuid": 100575,
+    "class": "Mechanist",
+    "name": "Rapid Barrier Cycling",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": "_EHO_Defensive _EHO_Protocols¥ lasts half as long, allowing quicker refreshing."
+  },
+  {
+    "uuid": 100576,
+    "class": "Mechanist",
+    "name": "Brightness",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": "_EHO_Light _EHO_Lance¥'s damage is increased by  of the Light Radius Stat."
+  },
+  {
+    "uuid": 100577,
+    "class": "Mechanist",
+    "name": "Overclocked Barriers",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": " Barrier Strength."
+  },
+  {
+    "uuid": 100578,
+    "class": "Mechanist",
+    "name": "Improved Stim Receptors",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": " Healing From All Sources."
+  },
+  {
+    "uuid": 100579,
+    "class": "Mechanist",
+    "name": "Burst Healing",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": "_EHO_M3D1C¥ healing over time effect now heals twice as often, but half as much in total."
+  },
+  {
+    "uuid": 100580,
+    "class": "Mechanist",
+    "name": "Savior Protocols",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": "_EHO_P4L4D-N¥ will absorb any damage that would otherwise kill the Mechanist, saving her and self-destructing. Can only happen once every ~3 minutes¥ and requires an active living _EHO_P4L4D-N¥ companion."
+  },
+  {
+    "uuid": 100582,
+    "class": "Mechanist",
+    "name": "Restorative Tech",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": "_EHO_Barrier _EHO_Up!¥ and _EHO_Repair _EHO_Protocols¥ are  more effective."
+  },
+  {
+    "uuid": 100583,
+    "class": "Mechanist",
+    "name": "Refocused Optics",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": " Increased damage of _EHO_Light _EHO_Lance¥."
+  },
+  {
+    "uuid": 100584,
+    "class": "Mechanist",
+    "name": "Retaliative Protocols",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": " Increased damage of _EHO_Offensive _EHO_Protocols¥."
+  },
+  {
+    "uuid": 100585,
+    "class": "Mechanist",
+    "name": "Pin-Point Accuracy",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": " Increased damage of _EHO_Light _EHO_Lance¥ and _EHO_Offensive _EHO_Protocols¥."
+  },
+  {
+    "uuid": 100586,
+    "class": "Mechanist",
+    "name": "Synchronized Offensive",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": "_EHO_Offensive _EHO_Protocols¥ now also trigger on all companions."
+  },
+  {
+    "uuid": 100587,
+    "class": "Mechanist",
+    "name": "Empowerment Bots",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": "_EHO_Power _EHO_Bots¥ now also add  to Companion Damage and Companion Health for each Drone."
+  },
+  {
+    "uuid": 100588,
+    "class": "Mechanist",
+    "name": "Parallel Processing",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": "_EHO_Feedback _EHO_Loops¥ has a  additional chance to trigger."
+  },
+  {
+    "uuid": 100589,
+    "class": "Mechanist",
+    "name": "Holey Synergy",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Physical",
+    "family": "",
+    "description": " Increased damage of _EPH_Puncture¥."
+  },
+  {
+    "uuid": 100590,
+    "class": "Mechanist",
+    "name": "Mechpriest Focus",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Holy",
+    "family": "",
+    "description": "Increases the damage of all |Mechpriest¥ active skills by ."
+  },
+  {
+    "uuid": 100591,
+    "class": "Mechanist",
+    "name": "Mechpriest Mastery",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": "Increases the damage of all Mechpriest skills for each point spent in this line. Current bonus is ."
+  },
+  {
     "uuid": 100015,
     "class": "Mechanist",
     "name": "Corruptor Mastery",
@@ -12068,6 +13198,86 @@
     "element": "Holy",
     "family": "",
     "description": "REQUIRED also adds  Mana Regeneration while active in a slot."
+  },
+  {
+    "uuid": 100418,
+    "class": "Warlock",
+    "name": "Strengthened Companions",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Companion Damage"
+  },
+  {
+    "uuid": 100419,
+    "class": "Warlock",
+    "name": "Hardened Companions",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Companion Health"
+  },
+  {
+    "uuid": 100470,
+    "class": "Warlock",
+    "name": "Fire Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Fire",
+    "family": "",
+    "description": " Fire Damage"
+  },
+  {
+    "uuid": 100471,
+    "class": "Warlock",
+    "name": "Frost Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Frost",
+    "family": "",
+    "description": " Frost Damage"
+  },
+  {
+    "uuid": 100473,
+    "class": "Warlock",
+    "name": "Poison Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Poison",
+    "family": "",
+    "description": " Poison Damage"
+  },
+  {
+    "uuid": 100474,
+    "class": "Warlock",
+    "name": "Shadow Damage",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Shadow",
+    "family": "",
+    "description": " Shadow Damage"
+  },
+  {
+    "uuid": 100478,
+    "class": "Warlock",
+    "name": "Thorns",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Thorns"
+  },
+  {
+    "uuid": 100500,
+    "class": "Warlock",
+    "name": "Death Lord",
+    "tree": "Mastery",
+    "type": "",
+    "element": "Ethereal",
+    "family": "",
+    "description": " Bane skill damage."
   },
   {
     "uuid": 100136,

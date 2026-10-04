@@ -23,6 +23,9 @@ export interface EnchantsFilters {
   search?: string;
   type?: string;
   category?: string;
+  // only used for runes
+  slot?: string;
+  characterClass?: string;
 }
 
 export interface ArtifactsFilters {
@@ -68,6 +71,8 @@ export type QueryFiltersInterface = {
   enchantsSearch?: string;
   enchantsType?: string;
   enchantsCategory?: string;
+  enchantsSlot?: string;
+  enchantsCharacterClass?: string;
   skillsSearch?: string;
   skillsCharacterClass: string;
   skillsTree: string;
