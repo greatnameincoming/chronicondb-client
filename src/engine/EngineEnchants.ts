@@ -79,7 +79,7 @@ export default class EngineEnchants {
   }
 
   public getItemEnchantsSlots(item: Item): ItemEnchantSlots | null {
-    if (this.engine.loaded && ![ItemRarity.Mythical].includes(item.rarity)) {
+    if (this.engine.loaded) {
       const enchantSlots = ENCHANT_SLOTS_BY_RARITY[item.rarity];
       const fixedEnchants = this.enchantsToRawEnchants(
         item.rarity,

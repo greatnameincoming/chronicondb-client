@@ -10021,6 +10021,61 @@
     "setBonuses": ""
   },
   {
+    "uuid": 988,
+    "name": "Absolution",
+    "type": "Sword",
+    "category": "Weapon",
+    "description": "The Mythical Absolution counts as being part of all equipped Templar Class Sets.",
+    "classRestriction": "Templar",
+    "enchants": "This Sword allows Blocking without a Shield.\n to the maximum cap of Block Chance.\n increase to all Minor Stats.",
+    "setName": "",
+    "setBonuses": ""
+  },
+  {
+    "uuid": 989,
+    "name": "Animosity",
+    "type": "Fists",
+    "category": "Weapon",
+    "description": "The Mythical Animosity counts as being part of all equipped Berserker Class Sets.",
+    "classRestriction": "Berserker",
+    "enchants": "Rage Generation\n Minimum Rage\n Maximum Rage",
+    "setName": "",
+    "setBonuses": ""
+  },
+  {
+    "uuid": 990,
+    "name": "Aeon",
+    "type": "Bow",
+    "category": "Weapon",
+    "description": "The Mythical Aeon counts as being part of all equipped Warden Class Sets.",
+    "classRestriction": "Warden",
+    "enchants": "summoned companions of all Companion skills.\n to Companion Passive and Use Effect.\n Evasion",
+    "setName": "",
+    "setBonuses": ""
+  },
+  {
+    "uuid": 991,
+    "name": "Afterlife",
+    "type": "Staff",
+    "category": "Weapon",
+    "description": "The Mythical Afterlife counts as being part of all equipped Warlock Class Sets.",
+    "classRestriction": "Warlock",
+    "enchants": "Maximum Souls.\n Minimum Souls.\n increased effect of any Soul skills.",
+    "setName": "",
+    "setBonuses": ""
+  },
+  {
+    "uuid": 992,
+    "name": "Alpha",
+    "type": "Axe",
+    "category": "Weapon",
+    "description": "The Mythical Alpha counts as being part of all equipped Mechanist Class Sets.",
+    "classRestriction": "Mechanist",
+    "enchants": "Parry.\n increased chance to find Ammo\n Max Ammo",
+    "setName": "",
+    "setBonuses": ""
+  },
+  {
     "uuid": 993,
     "name": "X Marks The Spot",
     "type": "Ship Upgrade",

@@ -92,7 +92,18 @@ export const ENCHANT_SLOTS_BY_RARITY: Record<ItemRarity, ItemEnchantSlot[]> = {
       categoriesRestriction: EpicEnchantableCategories,
     },
   ],
-  [ItemRarity.Mythical]: [],
+  [ItemRarity.Mythical]: [
+    {
+      count: 3,
+      types: [EnchantType.Minor],
+      categoriesRestriction: EnchantableCategories,
+    },
+    {
+      count: 3,
+      types: [EnchantType.Major],
+      categoriesRestriction: EnchantableCategories,
+    },
+  ],
 };
 
 export const ITEM_TYPES_BY_CATEGORIES: Record<ItemCategory, ItemType[]> = {

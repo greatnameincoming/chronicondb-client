@@ -16468,6 +16468,131 @@
     "fixedEnchants": []
   },
   {
+    "uuid": 988,
+    "name": "Absolution",
+    "icon": "spr_itemicons_988",
+    "description": "The Mythical Absolution counts as being part of all equipped Templar Class Sets.",
+    "category": "Weapon",
+    "type": "Sword",
+    "rarity": "Mythical",
+    "classRestriction": "Templar",
+    "minLevel": 30,
+    "baseEnchants": [
+      1,
+      2,
+      3,
+      5,
+      19
+    ],
+    "fixedEnchants": [
+      139,
+      138,
+      137,
+      1304,
+      1304
+    ]
+  },
+  {
+    "uuid": 989,
+    "name": "Animosity",
+    "icon": "spr_itemicons_989",
+    "description": "The Mythical Animosity counts as being part of all equipped Berserker Class Sets.",
+    "category": "Weapon",
+    "type": "Fists",
+    "rarity": "Mythical",
+    "classRestriction": "Berserker",
+    "minLevel": 30,
+    "baseEnchants": [
+      1,
+      2,
+      3,
+      5,
+      19
+    ],
+    "fixedEnchants": [
+      105,
+      103,
+      104,
+      1304,
+      1304
+    ]
+  },
+  {
+    "uuid": 990,
+    "name": "Aeon",
+    "icon": "spr_itemicons_990",
+    "description": "The Mythical Aeon counts as being part of all equipped Warden Class Sets.",
+    "category": "Weapon",
+    "type": "Bow",
+    "rarity": "Mythical",
+    "classRestriction": "Warden",
+    "minLevel": 30,
+    "baseEnchants": [
+      1,
+      2,
+      3,
+      5,
+      19
+    ],
+    "fixedEnchants": [
+      141,
+      140,
+      121,
+      1304,
+      1304
+    ]
+  },
+  {
+    "uuid": 991,
+    "name": "Afterlife",
+    "icon": "spr_itemicons_991",
+    "description": "The Mythical Afterlife counts as being part of all equipped Warlock Class Sets.",
+    "category": "Weapon",
+    "type": "Staff",
+    "rarity": "Mythical",
+    "classRestriction": "Warlock",
+    "minLevel": 30,
+    "baseEnchants": [
+      1,
+      2,
+      3,
+      5,
+      19
+    ],
+    "fixedEnchants": [
+      142,
+      143,
+      144,
+      1304,
+      1304
+    ]
+  },
+  {
+    "uuid": 992,
+    "name": "Alpha",
+    "icon": "spr_itemicons_992",
+    "description": "The Mythical Alpha counts as being part of all equipped Mechanist Class Sets.",
+    "category": "Weapon",
+    "type": "Axe",
+    "rarity": "Mythical",
+    "classRestriction": "Mechanist",
+    "minLevel": 30,
+    "baseEnchants": [
+      1,
+      2,
+      3,
+      5,
+      19
+    ],
+    "fixedEnchants": [
+      145,
+      136,
+      135,
+      1304,
+      1304
+    ]
+  },
+  {
     "uuid": 993,
     "name": "X Marks The Spot",
     "icon": "spr_itemicons_993",

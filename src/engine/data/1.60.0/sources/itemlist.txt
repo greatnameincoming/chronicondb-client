@@ -909,6 +909,11 @@
 985 - Iridescent Powder - Legendary Crafting Material - Any Class - Lv 100 
 986 - Pearl of Purity - Mythical Crafting Material - Any Class - Lv 100 
 987 - Cursed Doubloon - Mythical Crafting Material - Any Class - Lv 100 
+988 - Absolution - Mythical Sword - Templar - Lv 30  -- e139 e138 e137 e1304 e1304 
+989 - Animosity - Mythical Fists - Berserker - Lv 30  -- e105 e103 e104 e1304 e1304 
+990 - Aeon - Mythical Bow - Warden - Lv 30  -- e141 e140 e121 e1304 e1304 
+991 - Afterlife - Mythical Staff - Warlock - Lv 30  -- e142 e143 e144 e1304 e1304 
+992 - Alpha - Mythical Axe - Mechanist - Lv 30  -- e145 e136 e135 e1304 e1304 
 993 - X Marks The Spot - Rare Ship Upgrade - Any Class - Lv 1 
 994 - Cursed Ship - Rare Ship Upgrade - Any Class - Lv 1 
 995 - Expanded Cargo Hold - Rare Ship Upgrade - Any Class - Lv 1 
